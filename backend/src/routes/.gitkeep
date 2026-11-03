@@ -1,0 +1,4 @@
+/**
+ * Proposed Backend Routes (Phase 2)
+ * Responsible for: leadsRoutes.ts (POST /leads, GET /leads, GET /leads/:id, PATCH /leads/:id, GET /leads/export)
+ */

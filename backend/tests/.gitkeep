@@ -1,0 +1,4 @@
+/**
+ * Proposed Backend Test Suites (Phase 2)
+ * Responsible for: unit tests, API integration tests with Supertest, validator edge cases.
+ */

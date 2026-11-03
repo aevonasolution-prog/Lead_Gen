@@ -1,0 +1,4 @@
+/**
+ * Proposed Backend Models (Phase 2)
+ * Responsible for: Lead ORM entity / schema definition, indexed fields (email, status, createdAt).
+ */

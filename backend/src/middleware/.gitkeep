@@ -1,0 +1,4 @@
+/**
+ * Proposed Backend Middleware (Phase 2)
+ * Responsible for: rateLimiter.ts, errorHandler.ts, authGuard.ts, requestLogger.ts
+ */

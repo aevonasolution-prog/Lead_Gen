@@ -1,0 +1,8 @@
+# User-agent directive for crawlers
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api/
+
+# Sitemap location placeholder (update with final production domain)
+Sitemap: https://www.yourbusiness.example.com/sitemap.xml

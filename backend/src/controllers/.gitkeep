@@ -1,0 +1,4 @@
+/**
+ * Proposed Backend Controllers (Phase 2)
+ * Responsible for: leadsController.ts (createLead, listLeads, getLeadById, updateLeadStatus, exportLeadsCsv)
+ */
