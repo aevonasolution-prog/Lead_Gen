@@ -1,0 +1,4 @@
+/**
+ * Proposed Backend Config Module (Phase 2)
+ * Responsible for: Environment validation, Database pool init, CORS origin settings.
+ */

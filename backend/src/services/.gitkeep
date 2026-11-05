@@ -1,0 +1,4 @@
+/**
+ * Proposed Backend Services (Phase 2)
+ * Responsible for: leadPersistenceService.ts, emailNotificationService.ts, csvStreamingService.ts
+ */

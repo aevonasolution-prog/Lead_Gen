@@ -1,0 +1,4 @@
+/**
+ * Proposed Backend Utils (Phase 2)
+ * Responsible for: apiResponse.ts (success/error envelopes), csvGenerator.ts, customErrors.ts
+ */

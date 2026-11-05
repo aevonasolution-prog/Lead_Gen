@@ -1,0 +1,4 @@
+/**
+ * Proposed Backend Validators (Phase 2)
+ * Responsible for: leadSchemaValidator.ts (Zod / Joi validation for POST / PATCH / Query params)
+ */
